@@ -2,6 +2,13 @@
     <img src="https://instagram.fbsb12-2.fna.fbcdn.net/v/t51.2885-19/312371735_839031797513979_8126513937905568744_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb12-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=D7CuWO8OvyUAX_DjhFx&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCuIucpgQEg-Pfy3hqcAbrqVeWutnjey5eSlDbP-Yir3A&oe=63863EAB&_nc_sid=8fd12b" alt="Foto perfil instagram">
 </div>
 
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <p>Olá, me chamo Victor tenho 15 anos e tenho 4 anos de experiencia com TI/Programação</p>
 
 ## Sobre mim
