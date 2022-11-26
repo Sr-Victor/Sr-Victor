@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://github.com/Sr-Victor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sr-Victor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Victor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <p>Olá, me chamo Victor tenho 15 anos e tenho 4 anos de experiencia com TI/Programação</p>
